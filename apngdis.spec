@@ -2,7 +2,7 @@ Summary:	APNG Disassembler - deconstruct APNG files into individual frames
 Summary(pl.UTF-8):	APNG Disassembler - rozkładanie plików APNG na poszczególne ramki
 Name:		apngdis
 Version:	2.9
-Release:	1
+Release:	2
 License:	Zlib (BSD-like)
 Group:		Applications/Graphics
 Source0:	http://downloads.sourceforge.net/apngdis/%{name}-%{version}-src-only.zip
